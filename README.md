@@ -1,4 +1,6 @@
-# AWS-CloudFormation
+
+<img src="amazon_cloudformation_logo_icon_168665.png" alt="Alt text" width="300"> 
+
 Creating an Amazon VPC and Amazon EC2 instance (and other supporting elements) using an AWS CloudFormation template. The goal is to create a CloudFormation template with the following components
 - An Amazon Virtual Private Cloud
 - An internet gateway attached to the VPC
